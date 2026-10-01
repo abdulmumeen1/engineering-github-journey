@@ -12,3 +12,25 @@ I am learning Git and GitHub from beginner to advanced level.
 * Contribute to open source
 * Build a professional engineering portfolio
 
+
+
+\## Current Learning Path
+
+
+
+I am currently learning:
+
+
+
+\- Git
+
+\- GitHub
+
+\- Python
+
+\- Industrial Automation
+
+\- IoT
+
+\- Data Analytics
+
